@@ -1,3 +1,3 @@
 # Neural-Network-Model-Powered-Animal-Image-Synthesis-Engine
-Northeastern University CS6140 Final Project
+Northeastern University CS6140 Final Project <br>
 Author: Yihao Shu and Xianwei Long
