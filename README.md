@@ -4,8 +4,8 @@
 Yihao Shu shu.yih@northeastern.edu <br>
 (Bruce) Xianwei Long long.xianw@northeastern.edu <br>
 
-**Code** <br>
+**Code:** <br>
 Code is in CS6140_project.ipynb <br>
 
-**Documentation** <br>
+**Documentation:** <br>
 Related to Documentation.pdf
